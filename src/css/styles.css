@@ -1,0 +1,26 @@
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 50px;
+}
+.photo-card {
+  width: 300px;
+  border: 1px solid black;
+  text-align: center;
+  margin-bottom: 50px;
+}
+.search-form {
+  display: block;
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 50px;
+}
+.load-more {
+  display: block;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.info {
+  display: flex;
+}
